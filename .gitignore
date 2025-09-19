@@ -1,0 +1,9 @@
+# IPython/Jupyter Notebook checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+*/.DS_Store/*
+.DS_Store
+*.keras
+.ipynb_checkpoints/chapter10_dl-for-timeseries-checkpoint.ipynb
+*.keras
+*.keras
